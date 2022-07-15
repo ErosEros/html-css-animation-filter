@@ -136,3 +136,10 @@
     filter: grayscale(0.7) sepia(0.5); 
 }
 /* / ESERCIZIO 7 */
+
+/* ESERCIZIO 8 */
+.ex-8-img:hover {
+    filter: grayscale(0.7) sepia(0.5);
+    border-radius: 10px;
+}
+/* ESERCIZIO 8 */
