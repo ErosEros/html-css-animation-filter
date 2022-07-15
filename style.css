@@ -126,3 +126,13 @@
     filter: grayscale(1);
 }
 /* / ESERCIZIO 6 */
+
+/* ESERCIZIO 7 */
+.ex-7-img {
+    transition: 2s;
+}
+
+.ex-7-img:hover {
+    filter: grayscale(0.7) sepia(0.5); 
+}
+/* / ESERCIZIO 7 */
