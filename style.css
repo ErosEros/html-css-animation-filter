@@ -151,3 +151,16 @@
     transform: scale(2);
 }
 /* / ESERCIZIO 9 */
+
+/* ESERCIZIO 10 */
+.ex-10-icon {
+    animation-name: spin;
+    animation-duration: 10s;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(5turn);
+    }
+}
+/* ESERCIZIO 10 */
