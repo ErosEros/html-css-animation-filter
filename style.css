@@ -142,4 +142,12 @@
     filter: grayscale(0.7) sepia(0.5);
     border-radius: 10px;
 }
-/* ESERCIZIO 8 */
+/* / ESERCIZIO 8 */
+
+/* ESERCIZIO 9 */
+.ex-9-img:hover {
+    filter: grayscale(0.7) sepia(0.5);
+    border-radius: 10px;
+    transform: scale(2);
+}
+/* / ESERCIZIO 9 */
